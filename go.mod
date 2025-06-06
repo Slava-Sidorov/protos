@@ -1,4 +1,4 @@
-module github.com/GolangLessons/protos
+module github.com/Slava-Sidorov/protos
 
 go 1.24
 
